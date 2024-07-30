@@ -26,9 +26,9 @@ patch:
 
     layout:
       align_type: "bottom"        # string  "top" | "center" | "bottom" 序号、候选词、注释纵向对齐方式
-      corner_radius: 3            # number  圆角大小 候选面板
+      corner_radius: 6            # number  圆角大小 候选面板
       enhanced_position: false    # bool 允许光标位置获取失败时，在当空窗口左上角绘制候选框（而不是桌面左上角）
-      shadow_radius: 3
+      shadow_radius: 6
       shadow_offset_x: 2          # number 阴影横向偏移量
       shadow_offset_y: 2          # number 阴影纵向偏移量
       border_width: 1             # number 边框宽度 候选边框、面板边框
