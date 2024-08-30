@@ -5,7 +5,7 @@ last_edit_time: "2021-08-07"
 dict_grouped: true # 词库管理应用识别：标记该码表为分组模式
 
 
-sort: original
+sort: by_weight
   # 码表的排序方式
   # by_weight 权重
   # original 原始顺序
@@ -23,3 +23,11 @@ sort: original
 重启咲良田	tykl	10
 水濑祈	iipy  10
 鿭	qqiy	30
+𬉼	oaqy	20
+𫐓	lcbs	20
+𫖯	iqdm	15
+𬬻	qhnt	10
+𪟝	gmln	20
+𬞟	ahim	20
+𫫇	kgon	10
+二𫫇英	fkam	10
